@@ -2,7 +2,6 @@ import React from "react";
 import img from "@/assets/webpack.png";
 
 const App = () => {
-  console.log("salam");
   
   return (
     <div className="container">
